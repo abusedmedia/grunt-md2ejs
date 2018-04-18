@@ -1,9 +1,8 @@
 {
   "name": "grunt-md2ejs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "fabiofranchino.com",
   "license": "MIT",
   "devDependencies": {
